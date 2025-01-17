@@ -17,6 +17,7 @@ public class Week21 {
     //fetch and merge
     public static void main(String[] args) {
         // TODO code application logic here
+        // fetching and merging
     }
     
 }

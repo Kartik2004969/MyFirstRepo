@@ -14,6 +14,7 @@ public class Week21 {
      * @param args the command line arguments
      */
     //showing pull
+    //fetch and merge
     public static void main(String[] args) {
         // TODO code application logic here
     }
